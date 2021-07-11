@@ -112,7 +112,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"file:\/\/\/C:\/Users\/Luise%20Hecht\/Desktop\/Uni\/Musik\/1%20Musikpraxis\/Gesang\/Mozart%20der%20Zauberer.pdf"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -265,19 +265,6 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
-        }, 
-        {
-         "columns":16,
-         "firstgid":1130,
-         "image":"..\/..\/..\/Raum Work Adventure\/tilesets_deviant_milkian_1.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "name":"tilesets_deviant_milkian_1",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
