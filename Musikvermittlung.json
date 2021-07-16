@@ -257,8 +257,10 @@
                  "text":
                     {
                      "fontfamily":"Calibri",
+                     "halign":"center",
                      "pixelsize":19,
-                     "text":"Willkommen im Raum zu \"Die Tuilerien - \n           Spielende Kinder im Streit\"",
+                     "text":"Willkommen im Raum zu \"Die Tuilerien - \nSpielende Kinder im Streit\"",
+                     "valign":"center",
                      "wrap":true
                     },
                  "type":"",
